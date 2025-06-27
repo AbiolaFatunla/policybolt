@@ -17,6 +17,9 @@ At PolicyBolt, Vitor was involved in the entire development process, working clo
 ### Ross Hughey
 
 ### Abiola Fatunla
+Software developer and AI security specialist passionate about building secure, scalable solutions that address the evolving challenges of modern application development. With extensive experience architecting comprehensive security platforms and multi-agent AI systems, Abiola brings deep expertise in AWS serverless infrastructure, advanced automation workflows, and enterprise integration patterns. His technical background spans cybersecurity architecture, AI orchestration systems, and platform-agnostic integration strategies designed to enhance developer productivity whilst maintaining robust security standards.
+
+At PolicyBolt, Abiola played a crucial role in establishing seamless GitHub integration capabilities and developing sophisticated n8n automation workflows. He brought valuable expertise in API integration patterns and workflow orchestration, contributing to the creation of robust connections between platform components where technical precision enabled creative automation solutions.​​​​​​​​​​​​​​​​
 
 ### Paul Dohou
 
